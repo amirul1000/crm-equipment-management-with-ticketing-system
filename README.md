@@ -1,7 +1,7 @@
 "# crm-equipment-management-with-ticketing-system" 
 
 
-Youtube Tutorial : https://youtu.be/2GYBjCswb_I
+Youtube Tutorial : https://youtu.be/kTm2-43gvjs
 
 Youtube Channel : https://www.youtube.com/channel/UC2Q4oWfoMQzi6AES8Vb2vQw?view_as=subscriber
 
